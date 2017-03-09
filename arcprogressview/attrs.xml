@@ -1,0 +1,12 @@
+<resources>
+    <declare-styleable name="ArcProgressView">
+        <attr name="scale_color" format="color"/>
+        <attr name="value_color" format="color"/>
+        <attr name="scale_width" format="dimension"/>
+        <attr name="value_width" format="dimension" />
+        <attr name="text_value_size" format="dimension"/>
+        <attr name="scale_min" format="integer"/>
+        <attr name="scale_max" format="integer"/>
+        <attr name="value_animation_duration" format="integer"/>
+    </declare-styleable>
+</resources>
